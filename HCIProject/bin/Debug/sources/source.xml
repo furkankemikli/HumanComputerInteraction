@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<maillist>
+	<email>
+		<sender>
+			<senderaddress>furkankemikli@student.um.si</senderaddress>
+		</sender>
+		<recipients>
+			<recipient>
+				<recipientaddress>recipient1@gmail.com</recipientaddress>
+				<role>to</role>
+			</recipient>
+			<recipient>
+				<recipientaddress>cc1@gmail.com</recipientaddress>
+				<role>cc</role>
+			</recipient>
+			<recipient>
+				<recipientaddress>bcc1@gmail.com</recipientaddress>
+				<role>bcc</role>
+			</recipient>
+		</recipients>
+		<type>sent</type>
+		<emailtitle>First Mail-Bolded</emailtitle>
+		<messagebody>&lt;Section xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xml:space="preserve" TextAlignment="Left" LineHeight="Auto" IsHyphenationEnabled="False" xml:lang="en-us" FlowDirection="LeftToRight" NumberSubstitution.CultureSource="Text" NumberSubstitution.Substitution="AsCulture" FontFamily="Segoe UI" FontStyle="Normal" FontWeight="Normal" FontStretch="Normal" FontSize="12" Foreground="#FF000000" Typography.StandardLigatures="True" Typography.ContextualLigatures="True" Typography.DiscretionaryLigatures="False" Typography.HistoricalLigatures="False" Typography.AnnotationAlternates="0" Typography.ContextualAlternates="True" Typography.HistoricalForms="False" Typography.Kerning="True" Typography.CapitalSpacing="False" Typography.CaseSensitiveForms="False" Typography.StylisticSet1="False" Typography.StylisticSet2="False" Typography.StylisticSet3="False" Typography.StylisticSet4="False" Typography.StylisticSet5="False" Typography.StylisticSet6="False" Typography.StylisticSet7="False" Typography.StylisticSet8="False" Typography.StylisticSet9="False" Typography.StylisticSet10="False" Typography.StylisticSet11="False" Typography.StylisticSet12="False" Typography.StylisticSet13="False" Typography.StylisticSet14="False" Typography.StylisticSet15="False" Typography.StylisticSet16="False" Typography.StylisticSet17="False" Typography.StylisticSet18="False" Typography.StylisticSet19="False" Typography.StylisticSet20="False" Typography.Fraction="Normal" Typography.SlashedZero="False" Typography.MathematicalGreek="False" Typography.EastAsianExpertForms="False" Typography.Variants="Normal" Typography.Capitals="Normal" Typography.NumeralStyle="Normal" Typography.NumeralAlignment="Normal" Typography.EastAsianWidths="Normal" Typography.EastAsianLanguage="Normal" Typography.StandardSwashes="0" Typography.ContextualSwashes="0" Typography.StylisticAlternates="0"&gt;&lt;Paragraph&gt;&lt;Run FontWeight="Bold"&gt;This message is composed for an example for the HCI Course. In this project we will have several email examples that will be different from each other. Some of them has multiple recipients, some of them contain multiple attachments etc. This email is one of them. &lt;/Run&gt;&lt;/Paragraph&gt;&lt;Paragraph&gt;&lt;Run FontWeight="Bold"&gt;Furkan Kemikli&lt;/Run&gt;&lt;/Paragraph&gt;&lt;Paragraph&gt;&lt;Run&gt;&lt;/Run&gt;&lt;/Paragraph&gt;&lt;/Section&gt;</messagebody>
+		<attachments>
+			<attachment>
+				<filepath>C:\Users\Furkan\Desktop\second_window.txt</filepath>
+			</attachment>
+		</attachments>
+	</email>
+	<email>
+		<sender>
+			<senderaddress>furkankemikli@student.um.si</senderaddress>
+		</sender>
+		<recipients>
+			<recipient>
+				<recipientaddress>second@gmail.com</recipientaddress>
+				<role>to</role>
+			</recipient>
+		</recipients>
+		<type>trash</type>
+		<emailtitle>Second Mail-Italic</emailtitle>
+		<messagebody>&lt;Section xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xml:space="preserve" TextAlignment="Left" LineHeight="Auto" IsHyphenationEnabled="False" xml:lang="en-us" FlowDirection="LeftToRight" NumberSubstitution.CultureSource="Text" NumberSubstitution.Substitution="AsCulture" FontFamily="Segoe UI" FontStyle="Normal" FontWeight="Normal" FontStretch="Normal" FontSize="12" Foreground="#FF000000" Typography.StandardLigatures="True" Typography.ContextualLigatures="True" Typography.DiscretionaryLigatures="False" Typography.HistoricalLigatures="False" Typography.AnnotationAlternates="0" Typography.ContextualAlternates="True" Typography.HistoricalForms="False" Typography.Kerning="True" Typography.CapitalSpacing="False" Typography.CaseSensitiveForms="False" Typography.StylisticSet1="False" Typography.StylisticSet2="False" Typography.StylisticSet3="False" Typography.StylisticSet4="False" Typography.StylisticSet5="False" Typography.StylisticSet6="False" Typography.StylisticSet7="False" Typography.StylisticSet8="False" Typography.StylisticSet9="False" Typography.StylisticSet10="False" Typography.StylisticSet11="False" Typography.StylisticSet12="False" Typography.StylisticSet13="False" Typography.StylisticSet14="False" Typography.StylisticSet15="False" Typography.StylisticSet16="False" Typography.StylisticSet17="False" Typography.StylisticSet18="False" Typography.StylisticSet19="False" Typography.StylisticSet20="False" Typography.Fraction="Normal" Typography.SlashedZero="False" Typography.MathematicalGreek="False" Typography.EastAsianExpertForms="False" Typography.Variants="Normal" Typography.Capitals="Normal" Typography.NumeralStyle="Normal" Typography.NumeralAlignment="Normal" Typography.EastAsianWidths="Normal" Typography.EastAsianLanguage="Normal" Typography.StandardSwashes="0" Typography.ContextualSwashes="0" Typography.StylisticAlternates="0"&gt;&lt;Paragraph&gt;&lt;Run&gt;This message is composed for an example for the HCI Course. In this project we will have several email examples that will be different from each other. Some of them has multiple recipients, some of them contain multiple attachments etc. This email is one of them. &lt;/Run&gt;&lt;/Paragraph&gt;&lt;Paragraph&gt;&lt;Run&gt;Furkan Kemikli&lt;/Run&gt;&lt;/Paragraph&gt;&lt;/Section&gt;</messagebody>
+		<attachments>
+			<attachment>
+				<filepath>C:\Program Files (x86)\Microsoft Visual Studio 11.0\Common7\IDE\devenv.exe</filepath>
+			</attachment>
+			<attachment>
+				<filepath>C:\Users\Furkan\Desktop\xml-operations.txt</filepath>
+			</attachment>
+		</attachments>
+	</email>
+	<email>
+		<sender>
+			<senderaddress>furkankemikli@student.um.si</senderaddress>
+		</sender>
+		<recipients>
+			<recipient>
+				<recipientaddress>third@gmail.com</recipientaddress>
+				<role>to</role>
+			</recipient>
+			<recipient>
+				<recipientaddress>cc@gmail.com</recipientaddress>
+				<role>cc</role>
+			</recipient>
+			<recipient>
+				<recipientaddress>bcc@gmail.com</recipientaddress>
+				<role>bcc</role>
+			</recipient>
+		</recipients>
+		<type>sent</type>
+		<emailtitle>Third Mail-Bold-Italic</emailtitle>
+		<messagebody>&lt;Section xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xml:space="preserve" TextAlignment="Left" LineHeight="Auto" IsHyphenationEnabled="False" xml:lang="en-us" FlowDirection="LeftToRight" NumberSubstitution.CultureSource="Text" NumberSubstitution.Substitution="AsCulture" FontFamily="Segoe UI" FontStyle="Normal" FontWeight="Normal" FontStretch="Normal" FontSize="12" Foreground="#FF000000" Typography.StandardLigatures="True" Typography.ContextualLigatures="True" Typography.DiscretionaryLigatures="False" Typography.HistoricalLigatures="False" Typography.AnnotationAlternates="0" Typography.ContextualAlternates="True" Typography.HistoricalForms="False" Typography.Kerning="True" Typography.CapitalSpacing="False" Typography.CaseSensitiveForms="False" Typography.StylisticSet1="False" Typography.StylisticSet2="False" Typography.StylisticSet3="False" Typography.StylisticSet4="False" Typography.StylisticSet5="False" Typography.StylisticSet6="False" Typography.StylisticSet7="False" Typography.StylisticSet8="False" Typography.StylisticSet9="False" Typography.StylisticSet10="False" Typography.StylisticSet11="False" Typography.StylisticSet12="False" Typography.StylisticSet13="False" Typography.StylisticSet14="False" Typography.StylisticSet15="False" Typography.StylisticSet16="False" Typography.StylisticSet17="False" Typography.StylisticSet18="False" Typography.StylisticSet19="False" Typography.StylisticSet20="False" Typography.Fraction="Normal" Typography.SlashedZero="False" Typography.MathematicalGreek="False" Typography.EastAsianExpertForms="False" Typography.Variants="Normal" Typography.Capitals="Normal" Typography.NumeralStyle="Normal" Typography.NumeralAlignment="Normal" Typography.EastAsianWidths="Normal" Typography.EastAsianLanguage="Normal" Typography.StandardSwashes="0" Typography.ContextualSwashes="0" Typography.StylisticAlternates="0"&gt;&lt;Paragraph&gt;&lt;Run FontStyle="Italic" FontWeight="Bold" FontSize="20" Foreground="#FFDC143C" TextDecorations="Underline"&gt;This message is composed for an example for the HCI Course. In this project we will have several email examples that will be different from each other. Some of them has multiple recipients, some of them contain multiple attachments etc. This email is one of them. &lt;/Run&gt;&lt;/Paragraph&gt;&lt;Paragraph&gt;&lt;Run FontStyle="Italic" FontWeight="Bold" FontSize="20" Foreground="#FFDC143C" TextDecorations="Underline"&gt;Furkan Kemikli&lt;/Run&gt;&lt;/Paragraph&gt;&lt;/Section&gt;</messagebody>
+		<attachments>
+			<attachment>
+				<filepath>C:\Program Files (x86)\Microsoft Visual Studio 11.0\Common7\IDE\devenv.exe</filepath>
+			</attachment>
+			<attachment>
+				<filepath>C:\Users\Furkan\Desktop\xml-operations.txt</filepath>
+			</attachment>
+		</attachments>
+	</email>
+	<email>
+		<sender>
+			<senderaddress>furkankemikli@student.um.si</senderaddress>
+		</sender>
+		<recipients>
+			<recipient>
+				<recipientaddress>fourth@gmail.com</recipientaddress>
+				<role>to</role>
+			</recipient>
+		</recipients>
+		<type>inbox</type>
+		<emailtitle>Fourth Mail-Just Italic</emailtitle>
+		<messagebody>&lt;Section xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xml:space="preserve" TextAlignment="Left" LineHeight="Auto" IsHyphenationEnabled="False" xml:lang="en-us" FlowDirection="LeftToRight" NumberSubstitution.CultureSource="Text" NumberSubstitution.Substitution="AsCulture" FontFamily="Segoe UI" FontStyle="Normal" FontWeight="Normal" FontStretch="Normal" FontSize="12" Foreground="#FF000000" Typography.StandardLigatures="True" Typography.ContextualLigatures="True" Typography.DiscretionaryLigatures="False" Typography.HistoricalLigatures="False" Typography.AnnotationAlternates="0" Typography.ContextualAlternates="True" Typography.HistoricalForms="False" Typography.Kerning="True" Typography.CapitalSpacing="False" Typography.CaseSensitiveForms="False" Typography.StylisticSet1="False" Typography.StylisticSet2="False" Typography.StylisticSet3="False" Typography.StylisticSet4="False" Typography.StylisticSet5="False" Typography.StylisticSet6="False" Typography.StylisticSet7="False" Typography.StylisticSet8="False" Typography.StylisticSet9="False" Typography.StylisticSet10="False" Typography.StylisticSet11="False" Typography.StylisticSet12="False" Typography.StylisticSet13="False" Typography.StylisticSet14="False" Typography.StylisticSet15="False" Typography.StylisticSet16="False" Typography.StylisticSet17="False" Typography.StylisticSet18="False" Typography.StylisticSet19="False" Typography.StylisticSet20="False" Typography.Fraction="Normal" Typography.SlashedZero="False" Typography.MathematicalGreek="False" Typography.EastAsianExpertForms="False" Typography.Variants="Normal" Typography.Capitals="Normal" Typography.NumeralStyle="Normal" Typography.NumeralAlignment="Normal" Typography.EastAsianWidths="Normal" Typography.EastAsianLanguage="Normal" Typography.StandardSwashes="0" Typography.ContextualSwashes="0" Typography.StylisticAlternates="0"&gt;&lt;Paragraph&gt;&lt;Run FontFamily="Microsoft Sans Serif" FontStyle="Italic" FontSize="28"&gt;This message is composed for an &lt;/Run&gt;&lt;Run FontFamily="Javanese Text" FontStyle="Italic" FontSize="28"&gt;example for the HCI Course. In this project we will have several email examples that will be different from each other. Some of them has multiple recipients, some of them contain multiple attachments etc. This email is one of them. &lt;/Run&gt;&lt;/Paragraph&gt;&lt;Paragraph&gt;&lt;Run FontFamily="Javanese Text" FontStyle="Italic" FontSize="28"&gt;Furkan Kemikli&lt;/Run&gt;&lt;/Paragraph&gt;&lt;/Section&gt;</messagebody>
+		<attachments />
+	</email>
+	<email>
+		<sender>
+			<senderaddress>furkankemikli@student.um.si</senderaddress>
+		</sender>
+		<recipients>
+			<recipient>
+				<recipientaddress>recipient1@gmail.com</recipientaddress>
+				<role>to</role>
+			</recipient>
+			<recipient>
+				<recipientaddress>cc1@gmail.com</recipientaddress>
+				<role>cc</role>
+			</recipient>
+			<recipient>
+				<recipientaddress>bcc1@gmail.com</recipientaddress>
+				<role>bcc</role>
+			</recipient>
+		</recipients>
+		<type>draft</type>
+		<emailtitle>First Mail-Bolded</emailtitle>
+		<messagebody>&lt;Section xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xml:space="preserve" TextAlignment="Left" LineHeight="Auto" IsHyphenationEnabled="False" xml:lang="en-us" FlowDirection="LeftToRight" NumberSubstitution.CultureSource="Text" NumberSubstitution.Substitution="AsCulture" FontFamily="Segoe UI" FontStyle="Normal" FontWeight="Normal" FontStretch="Normal" FontSize="12" Foreground="#FF000000" Typography.StandardLigatures="True" Typography.ContextualLigatures="True" Typography.DiscretionaryLigatures="False" Typography.HistoricalLigatures="False" Typography.AnnotationAlternates="0" Typography.ContextualAlternates="True" Typography.HistoricalForms="False" Typography.Kerning="True" Typography.CapitalSpacing="False" Typography.CaseSensitiveForms="False" Typography.StylisticSet1="False" Typography.StylisticSet2="False" Typography.StylisticSet3="False" Typography.StylisticSet4="False" Typography.StylisticSet5="False" Typography.StylisticSet6="False" Typography.StylisticSet7="False" Typography.StylisticSet8="False" Typography.StylisticSet9="False" Typography.StylisticSet10="False" Typography.StylisticSet11="False" Typography.StylisticSet12="False" Typography.StylisticSet13="False" Typography.StylisticSet14="False" Typography.StylisticSet15="False" Typography.StylisticSet16="False" Typography.StylisticSet17="False" Typography.StylisticSet18="False" Typography.StylisticSet19="False" Typography.StylisticSet20="False" Typography.Fraction="Normal" Typography.SlashedZero="False" Typography.MathematicalGreek="False" Typography.EastAsianExpertForms="False" Typography.Variants="Normal" Typography.Capitals="Normal" Typography.NumeralStyle="Normal" Typography.NumeralAlignment="Normal" Typography.EastAsianWidths="Normal" Typography.EastAsianLanguage="Normal" Typography.StandardSwashes="0" Typography.ContextualSwashes="0" Typography.StylisticAlternates="0"&gt;&lt;Paragraph&gt;&lt;Run FontWeight="Bold"&gt;This message is composed for an example for the HCI Course. In this project we will have several email examples that will be different from each other. Some of them has multiple recipients, some of them contain multiple attachments etc. This email is one of them. &lt;/Run&gt;&lt;/Paragraph&gt;&lt;Paragraph&gt;&lt;Run FontWeight="Bold"&gt;Furkan Kemikli&lt;/Run&gt;&lt;/Paragraph&gt;&lt;Paragraph&gt;&lt;Run&gt;&lt;/Run&gt;&lt;/Paragraph&gt;&lt;/Section&gt;</messagebody>
+		<attachments>
+			<attachment>
+				<filepath>C:\Users\Furkan\Desktop\second_window.txt</filepath>
+			</attachment>
+		</attachments>
+	</email>
+	<email>
+		<sender>
+			<senderaddress>furkankemikli@student.um.si</senderaddress>
+		</sender>
+		<recipients>
+			<recipient>
+				<recipientaddress>second@gmail.com</recipientaddress>
+				<role>to</role>
+			</recipient>
+		</recipients>
+		<type>draft</type>
+		<emailtitle>Second Mail-Italic</emailtitle>
+		<messagebody>&lt;Section xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xml:space="preserve" TextAlignment="Left" LineHeight="Auto" IsHyphenationEnabled="False" xml:lang="en-us" FlowDirection="LeftToRight" NumberSubstitution.CultureSource="Text" NumberSubstitution.Substitution="AsCulture" FontFamily="Segoe UI" FontStyle="Normal" FontWeight="Normal" FontStretch="Normal" FontSize="12" Foreground="#FF000000" Typography.StandardLigatures="True" Typography.ContextualLigatures="True" Typography.DiscretionaryLigatures="False" Typography.HistoricalLigatures="False" Typography.AnnotationAlternates="0" Typography.ContextualAlternates="True" Typography.HistoricalForms="False" Typography.Kerning="True" Typography.CapitalSpacing="False" Typography.CaseSensitiveForms="False" Typography.StylisticSet1="False" Typography.StylisticSet2="False" Typography.StylisticSet3="False" Typography.StylisticSet4="False" Typography.StylisticSet5="False" Typography.StylisticSet6="False" Typography.StylisticSet7="False" Typography.StylisticSet8="False" Typography.StylisticSet9="False" Typography.StylisticSet10="False" Typography.StylisticSet11="False" Typography.StylisticSet12="False" Typography.StylisticSet13="False" Typography.StylisticSet14="False" Typography.StylisticSet15="False" Typography.StylisticSet16="False" Typography.StylisticSet17="False" Typography.StylisticSet18="False" Typography.StylisticSet19="False" Typography.StylisticSet20="False" Typography.Fraction="Normal" Typography.SlashedZero="False" Typography.MathematicalGreek="False" Typography.EastAsianExpertForms="False" Typography.Variants="Normal" Typography.Capitals="Normal" Typography.NumeralStyle="Normal" Typography.NumeralAlignment="Normal" Typography.EastAsianWidths="Normal" Typography.EastAsianLanguage="Normal" Typography.StandardSwashes="0" Typography.ContextualSwashes="0" Typography.StylisticAlternates="0"&gt;&lt;Paragraph&gt;&lt;Run&gt;This message is composed for an example for the HCI Course. In this project we will have several email examples that will be different from each other. Some of them has multiple recipients, some of them contain multiple attachments etc. This email is one of them. &lt;/Run&gt;&lt;/Paragraph&gt;&lt;Paragraph&gt;&lt;Run&gt;Furkan Kemikli&lt;/Run&gt;&lt;/Paragraph&gt;&lt;/Section&gt;</messagebody>
+		<attachments>
+			<attachment>
+				<filepath>C:\Program Files (x86)\Microsoft Visual Studio 11.0\Common7\IDE\devenv.exe</filepath>
+			</attachment>
+			<attachment>
+				<filepath>C:\Users\Furkan\Desktop\xml-operations.txt</filepath>
+			</attachment>
+		</attachments>
+	</email>
+	<email>
+		<sender>
+			<senderaddress>furkankemikli@student.um.si</senderaddress>
+		</sender>
+		<recipients>
+			<recipient>
+				<recipientaddress>third@gmail.com</recipientaddress>
+				<role>to</role>
+			</recipient>
+			<recipient>
+				<recipientaddress>cc@gmail.com</recipientaddress>
+				<role>cc</role>
+			</recipient>
+			<recipient>
+				<recipientaddress>bcc@gmail.com</recipientaddress>
+				<role>bcc</role>
+			</recipient>
+		</recipients>
+		<type>inbox</type>
+		<emailtitle>Third Mail-Bold-Italic</emailtitle>
+		<messagebody>&lt;Section xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xml:space="preserve" TextAlignment="Left" LineHeight="Auto" IsHyphenationEnabled="False" xml:lang="en-us" FlowDirection="LeftToRight" NumberSubstitution.CultureSource="Text" NumberSubstitution.Substitution="AsCulture" FontFamily="Segoe UI" FontStyle="Normal" FontWeight="Normal" FontStretch="Normal" FontSize="12" Foreground="#FF000000" Typography.StandardLigatures="True" Typography.ContextualLigatures="True" Typography.DiscretionaryLigatures="False" Typography.HistoricalLigatures="False" Typography.AnnotationAlternates="0" Typography.ContextualAlternates="True" Typography.HistoricalForms="False" Typography.Kerning="True" Typography.CapitalSpacing="False" Typography.CaseSensitiveForms="False" Typography.StylisticSet1="False" Typography.StylisticSet2="False" Typography.StylisticSet3="False" Typography.StylisticSet4="False" Typography.StylisticSet5="False" Typography.StylisticSet6="False" Typography.StylisticSet7="False" Typography.StylisticSet8="False" Typography.StylisticSet9="False" Typography.StylisticSet10="False" Typography.StylisticSet11="False" Typography.StylisticSet12="False" Typography.StylisticSet13="False" Typography.StylisticSet14="False" Typography.StylisticSet15="False" Typography.StylisticSet16="False" Typography.StylisticSet17="False" Typography.StylisticSet18="False" Typography.StylisticSet19="False" Typography.StylisticSet20="False" Typography.Fraction="Normal" Typography.SlashedZero="False" Typography.MathematicalGreek="False" Typography.EastAsianExpertForms="False" Typography.Variants="Normal" Typography.Capitals="Normal" Typography.NumeralStyle="Normal" Typography.NumeralAlignment="Normal" Typography.EastAsianWidths="Normal" Typography.EastAsianLanguage="Normal" Typography.StandardSwashes="0" Typography.ContextualSwashes="0" Typography.StylisticAlternates="0"&gt;&lt;Paragraph&gt;&lt;Run FontStyle="Italic" FontWeight="Bold" FontSize="20" Foreground="#FFDC143C" TextDecorations="Underline"&gt;This message is composed for an example for the HCI Course. In this project we will have several email examples that will be different from each other. Some of them has multiple recipients, some of them contain multiple attachments etc. This email is one of them. &lt;/Run&gt;&lt;/Paragraph&gt;&lt;Paragraph&gt;&lt;Run FontStyle="Italic" FontWeight="Bold" FontSize="20" Foreground="#FFDC143C" TextDecorations="Underline"&gt;Furkan Kemikli&lt;/Run&gt;&lt;/Paragraph&gt;&lt;/Section&gt;</messagebody>
+		<attachments>
+			<attachment>
+				<filepath>C:\Program Files (x86)\Microsoft Visual Studio 11.0\Common7\IDE\devenv.exe</filepath>
+			</attachment>
+			<attachment>
+				<filepath>C:\Users\Furkan\Desktop\xml-operations.txt</filepath>
+			</attachment>
+		</attachments>
+	</email>
+	<email>
+		<sender>
+			<senderaddress>furkankemikli@student.um.si</senderaddress>
+		</sender>
+		<recipients>
+			<recipient>
+				<recipientaddress>fourth@gmail.com</recipientaddress>
+				<role>to</role>
+			</recipient>
+		</recipients>
+		<type>inbox</type>
+		<emailtitle>Fourth Mail-Just Italic</emailtitle>
+		<messagebody>&lt;Section xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xml:space="preserve" TextAlignment="Left" LineHeight="Auto" IsHyphenationEnabled="False" xml:lang="en-us" FlowDirection="LeftToRight" NumberSubstitution.CultureSource="Text" NumberSubstitution.Substitution="AsCulture" FontFamily="Segoe UI" FontStyle="Normal" FontWeight="Normal" FontStretch="Normal" FontSize="12" Foreground="#FF000000" Typography.StandardLigatures="True" Typography.ContextualLigatures="True" Typography.DiscretionaryLigatures="False" Typography.HistoricalLigatures="False" Typography.AnnotationAlternates="0" Typography.ContextualAlternates="True" Typography.HistoricalForms="False" Typography.Kerning="True" Typography.CapitalSpacing="False" Typography.CaseSensitiveForms="False" Typography.StylisticSet1="False" Typography.StylisticSet2="False" Typography.StylisticSet3="False" Typography.StylisticSet4="False" Typography.StylisticSet5="False" Typography.StylisticSet6="False" Typography.StylisticSet7="False" Typography.StylisticSet8="False" Typography.StylisticSet9="False" Typography.StylisticSet10="False" Typography.StylisticSet11="False" Typography.StylisticSet12="False" Typography.StylisticSet13="False" Typography.StylisticSet14="False" Typography.StylisticSet15="False" Typography.StylisticSet16="False" Typography.StylisticSet17="False" Typography.StylisticSet18="False" Typography.StylisticSet19="False" Typography.StylisticSet20="False" Typography.Fraction="Normal" Typography.SlashedZero="False" Typography.MathematicalGreek="False" Typography.EastAsianExpertForms="False" Typography.Variants="Normal" Typography.Capitals="Normal" Typography.NumeralStyle="Normal" Typography.NumeralAlignment="Normal" Typography.EastAsianWidths="Normal" Typography.EastAsianLanguage="Normal" Typography.StandardSwashes="0" Typography.ContextualSwashes="0" Typography.StylisticAlternates="0"&gt;&lt;Paragraph&gt;&lt;Run FontFamily="Microsoft Sans Serif" FontStyle="Italic" FontSize="28"&gt;This message is composed for an &lt;/Run&gt;&lt;Run FontFamily="Javanese Text" FontStyle="Italic" FontSize="28"&gt;example for the HCI Course. In this project we will have several email examples that will be different from each other. Some of them has multiple recipients, some of them contain multiple attachments etc. This email is one of them. &lt;/Run&gt;&lt;/Paragraph&gt;&lt;Paragraph&gt;&lt;Run FontFamily="Javanese Text" FontStyle="Italic" FontSize="28"&gt;Furkan Kemikli&lt;/Run&gt;&lt;/Paragraph&gt;&lt;/Section&gt;</messagebody>
+		<attachments />
+	</email>
+	<email>
+		<sender>
+			<senderaddress>furkankemikli@student.um.si</senderaddress>
+		</sender>
+		<recipients>
+			<recipient>
+				<recipientaddress>default@gmail.com</recipientaddress>
+				<role>to</role>
+			</recipient>
+		</recipients>
+		<type>sent</type>
+		<emailtitle>Image Trial</emailtitle>
+		<messagebody>&lt;Section xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xml:space="preserve" TextAlignment="Left" LineHeight="Auto" IsHyphenationEnabled="False" xml:lang="en-us" FlowDirection="LeftToRight" NumberSubstitution.CultureSource="Text" NumberSubstitution.Substitution="AsCulture" FontFamily="Segoe UI" FontStyle="Normal" FontWeight="Normal" FontStretch="Normal" FontSize="12" Foreground="#FF000000" Typography.StandardLigatures="True" Typography.ContextualLigatures="True" Typography.DiscretionaryLigatures="False" Typography.HistoricalLigatures="False" Typography.AnnotationAlternates="0" Typography.ContextualAlternates="True" Typography.HistoricalForms="False" Typography.Kerning="True" Typography.CapitalSpacing="False" Typography.CaseSensitiveForms="False" Typography.StylisticSet1="False" Typography.StylisticSet2="False" Typography.StylisticSet3="False" Typography.StylisticSet4="False" Typography.StylisticSet5="False" Typography.StylisticSet6="False" Typography.StylisticSet7="False" Typography.StylisticSet8="False" Typography.StylisticSet9="False" Typography.StylisticSet10="False" Typography.StylisticSet11="False" Typography.StylisticSet12="False" Typography.StylisticSet13="False" Typography.StylisticSet14="False" Typography.StylisticSet15="False" Typography.StylisticSet16="False" Typography.StylisticSet17="False" Typography.StylisticSet18="False" Typography.StylisticSet19="False" Typography.StylisticSet20="False" Typography.Fraction="Normal" Typography.SlashedZero="False" Typography.MathematicalGreek="False" Typography.EastAsianExpertForms="False" Typography.Variants="Normal" Typography.Capitals="Normal" Typography.NumeralStyle="Normal" Typography.NumeralAlignment="Normal" Typography.EastAsianWidths="Normal" Typography.EastAsianLanguage="Normal" Typography.StandardSwashes="0" Typography.ContextualSwashes="0" Typography.StylisticAlternates="0"&gt;&lt;Paragraph&gt;&lt;Run xml:lang="tr-tr" FontFamily="Comic Sans MS" FontStyle="Italic" FontWeight="Bold" FontSize="36" Foreground="#FFB22222"&gt;Can we see image thumbnail?&lt;/Run&gt;&lt;/Paragraph&gt;&lt;/Section&gt;</messagebody>
+		<attachments>
+			<attachment>
+				<filepath>E:\my data\best-3d-wallpaper-android-14.jpg</filepath>
+			</attachment>
+			<attachment>
+				<filepath>E:\my data\cool-wallpaper-1.jpg</filepath>
+			</attachment>
+		</attachments>
+	</email>
+	<email>
+		<sender>
+			<senderaddress>furkankemikli@student.um.si</senderaddress>
+		</sender>
+		<recipients>
+			<recipient>
+				<recipientaddress>me@gmail.com</recipientaddress>
+				<role>to</role>
+			</recipient>
+			<recipient>
+				<recipientaddress>cc@gmail.com</recipientaddress>
+				<role>cc</role>
+			</recipient>
+			<recipient>
+				<recipientaddress>bcc@gmail.com</recipientaddress>
+				<role>bcc</role>
+			</recipient>
+		</recipients>
+		<type>sent</type>
+		<emailtitle>AlmostFinished</emailtitle>
+		<messagebody>&lt;Section xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xml:space="preserve" TextAlignment="Left" LineHeight="Auto" IsHyphenationEnabled="False" xml:lang="en-us" FlowDirection="LeftToRight" NumberSubstitution.CultureSource="User" NumberSubstitution.Substitution="AsCulture" FontFamily="Arial" FontStyle="Normal" FontWeight="Normal" FontStretch="Normal" FontSize="14" Foreground="#FF000000" Typography.StandardLigatures="True" Typography.ContextualLigatures="True" Typography.DiscretionaryLigatures="False" Typography.HistoricalLigatures="False" Typography.AnnotationAlternates="0" Typography.ContextualAlternates="True" Typography.HistoricalForms="False" Typography.Kerning="True" Typography.CapitalSpacing="False" Typography.CaseSensitiveForms="False" Typography.StylisticSet1="False" Typography.StylisticSet2="False" Typography.StylisticSet3="False" Typography.StylisticSet4="False" Typography.StylisticSet5="False" Typography.StylisticSet6="False" Typography.StylisticSet7="False" Typography.StylisticSet8="False" Typography.StylisticSet9="False" Typography.StylisticSet10="False" Typography.StylisticSet11="False" Typography.StylisticSet12="False" Typography.StylisticSet13="False" Typography.StylisticSet14="False" Typography.StylisticSet15="False" Typography.StylisticSet16="False" Typography.StylisticSet17="False" Typography.StylisticSet18="False" Typography.StylisticSet19="False" Typography.StylisticSet20="False" Typography.Fraction="Normal" Typography.SlashedZero="False" Typography.MathematicalGreek="False" Typography.EastAsianExpertForms="False" Typography.Variants="Normal" Typography.Capitals="Normal" Typography.NumeralStyle="Normal" Typography.NumeralAlignment="Normal" Typography.EastAsianWidths="Normal" Typography.EastAsianLanguage="Normal" Typography.StandardSwashes="0" Typography.ContextualSwashes="0" Typography.StylisticAlternates="0"&gt;&lt;Paragraph&gt;&lt;Run xml:lang="tr-tr" FontFamily="Comic Sans MS" FontStyle="Italic" FontWeight="Bold" FontSize="24" Foreground="#FF8B0000" TextDecorations="Underline"&gt;After style resources added&lt;/Run&gt;&lt;/Paragraph&gt;&lt;/Section&gt;</messagebody>
+		<attachments>
+			<attachment>
+				<filepath>E:\G5 Photo\20170203_125632.jpg</filepath>
+			</attachment>
+		</attachments>
+	</email>
+</maillist>

@@ -1,0 +1,46 @@
+c:\users\furkan\documents\visual studio 2012\Projects\HCIProject\HCIProject\bin\Debug\HCIProject.exe.config
+C:\Users\Furkan\documents\visual studio 2012\Projects\HCIProject\HCIProject\bin\Debug\HCIProject.exe
+C:\Users\Furkan\documents\visual studio 2012\Projects\HCIProject\HCIProject\bin\Debug\HCIProject.pdb
+C:\Users\Furkan\documents\visual studio 2012\Projects\HCIProject\HCIProject\obj\Debug\HCIProject.csprojResolveAssemblyReference.cache
+C:\Users\Furkan\documents\visual studio 2012\Projects\HCIProject\HCIProject\obj\Debug\MainWindow.baml
+C:\Users\Furkan\documents\visual studio 2012\Projects\HCIProject\HCIProject\obj\Debug\MainWindow.g.cs
+C:\Users\Furkan\documents\visual studio 2012\Projects\HCIProject\HCIProject\obj\Debug\App.g.cs
+C:\Users\Furkan\documents\visual studio 2012\Projects\HCIProject\HCIProject\obj\Debug\HCIProject_MarkupCompile.cache
+C:\Users\Furkan\documents\visual studio 2012\Projects\HCIProject\HCIProject\obj\Debug\HCIProject.g.resources
+C:\Users\Furkan\documents\visual studio 2012\Projects\HCIProject\HCIProject\obj\Debug\HCIProject.Properties.Resources.resources
+C:\Users\Furkan\documents\visual studio 2012\Projects\HCIProject\HCIProject\obj\Debug\HCIProject.csproj.GenerateResource.Cache
+C:\Users\Furkan\documents\visual studio 2012\Projects\HCIProject\HCIProject\obj\Debug\HCIProject.exe
+C:\Users\Furkan\documents\visual studio 2012\Projects\HCIProject\HCIProject\obj\Debug\HCIProject.pdb
+C:\Users\Furkan\Documents\Visual Studio 2012\Projects\HCIProject\HCIProject\obj\Debug\SendMail.baml
+C:\Users\Furkan\Documents\Visual Studio 2012\Projects\HCIProject\HCIProject\obj\Debug\SendMail.g.cs
+C:\Users\Furkan\Documents\Visual Studio 2012\Projects\HCIProject\HCIProject\obj\Debug\mailSystemUC.baml
+C:\Users\Furkan\Documents\Visual Studio 2012\Projects\HCIProject\HCIProject\obj\Debug\mailSystemUC.g.cs
+C:\Users\Furkan\Documents\Visual Studio 2012\Projects\HCIProject\HCIProject\obj\Debug\HCIProject_MarkupCompile.lref
+C:\Users\Furkan\Documents\Visual Studio 2012\Projects\HCIProject\HCIProject\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Furkan\Documents\Visual Studio 2012\Projects\HCIProject\HCIProject\obj\Debug\mainResource.baml
+C:\Users\Furkan\Documents\Visual Studio 2012\Projects\HCIProject\HCIProject\obj\Debug\userControlResource.baml
+C:\Users\Furkan\Documents\Visual Studio 2012\Projects\HCIProject\HCIProject\obj\Debug\App.baml
+E:\Furkan\Github Projects\HCI Step 8\HCIProject\HCIProject\bin\Debug\HCIProject.exe.config
+E:\Furkan\Github Projects\HCI Step 8\HCIProject\HCIProject\bin\Debug\HCIProject.exe
+E:\Furkan\Github Projects\HCI Step 8\HCIProject\HCIProject\bin\Debug\HCIProject.pdb
+E:\Furkan\Github Projects\HCI Step 8\HCIProject\HCIProject\bin\Debug\Xceed.Wpf.Toolkit.dll
+E:\Furkan\Github Projects\HCI Step 8\HCIProject\HCIProject\obj\Debug\HCIProject.csprojAssemblyReference.cache
+E:\Furkan\Github Projects\HCI Step 8\HCIProject\HCIProject\obj\Debug\mailSystemUC.baml
+E:\Furkan\Github Projects\HCI Step 8\HCIProject\HCIProject\obj\Debug\mainResource.baml
+E:\Furkan\Github Projects\HCI Step 8\HCIProject\HCIProject\obj\Debug\MainWindow.baml
+E:\Furkan\Github Projects\HCI Step 8\HCIProject\HCIProject\obj\Debug\userControlResource.baml
+E:\Furkan\Github Projects\HCI Step 8\HCIProject\HCIProject\obj\Debug\App.baml
+E:\Furkan\Github Projects\HCI Step 8\HCIProject\HCIProject\obj\Debug\mailSystemUC.g.cs
+E:\Furkan\Github Projects\HCI Step 8\HCIProject\HCIProject\obj\Debug\MainWindow.g.cs
+E:\Furkan\Github Projects\HCI Step 8\HCIProject\HCIProject\obj\Debug\SendMail.g.cs
+E:\Furkan\Github Projects\HCI Step 8\HCIProject\HCIProject\obj\Debug\App.g.cs
+E:\Furkan\Github Projects\HCI Step 8\HCIProject\HCIProject\obj\Debug\HCIProject_MarkupCompile.cache
+E:\Furkan\Github Projects\HCI Step 8\HCIProject\HCIProject\obj\Debug\HCIProject_MarkupCompile.lref
+E:\Furkan\Github Projects\HCI Step 8\HCIProject\HCIProject\obj\Debug\SendMail.baml
+E:\Furkan\Github Projects\HCI Step 8\HCIProject\HCIProject\obj\Debug\HCIProject.g.resources
+E:\Furkan\Github Projects\HCI Step 8\HCIProject\HCIProject\obj\Debug\HCIProject.Properties.Resources.resources
+E:\Furkan\Github Projects\HCI Step 8\HCIProject\HCIProject\obj\Debug\HCIProject.csproj.GenerateResource.cache
+E:\Furkan\Github Projects\HCI Step 8\HCIProject\HCIProject\obj\Debug\HCIProject.csproj.CoreCompileInputs.cache
+E:\Furkan\Github Projects\HCI Step 8\HCIProject\HCIProject\obj\Debug\HCIProject.csproj.CopyComplete
+E:\Furkan\Github Projects\HCI Step 8\HCIProject\HCIProject\obj\Debug\HCIProject.exe
+E:\Furkan\Github Projects\HCI Step 8\HCIProject\HCIProject\obj\Debug\HCIProject.pdb

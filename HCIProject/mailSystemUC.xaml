@@ -1,0 +1,78 @@
+﻿<UserControl x:Class="HCIProject.mailSystemUC"        
+             xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:med="clr-namespace:System.Windows.Media;assembly=PresentationCore"
+             xmlns:sys="clr-namespace:System;assembly=mscorlib"
+             mc:Ignorable="d"
+             x:Name="ThisWindow"
+             d:DesignHeight="300" d:DesignWidth="410">
+    <DockPanel x:Name="ucDock" LastChildFill="True">
+        <Expander x:Name="textEditor" DockPanel.Dock="Bottom" Style="{StaticResource expanderStyle}">
+            <Grid Background="WhiteSmoke">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="3*"/>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="2*"/>
+                </Grid.ColumnDefinitions>
+                <Button x:Name="btnBold" Grid.Column="0" Height="25" Margin="0 5 5 5" Click="btnBold_Click">
+                    <StackPanel Orientation="Horizontal">
+                        <Image Source="./images/icon/bold.png" Height="16" Width="16" />
+                    </StackPanel>
+                </Button>
+                <Button x:Name="btnItalic" Grid.Column="1" Style="{StaticResource editorButtonStyle}" Click="btnItalic_Click">
+                    <StackPanel Orientation="Horizontal">
+                        <Image Source="./images/icon/italic.png" Height="16" Width="16" />
+                    </StackPanel>
+                </Button>
+                <Button x:Name="btnUnderline" Grid.Column="2" Style="{StaticResource editorButtonStyle}" Click="btnUnderline_Click">
+                    <StackPanel Orientation="Horizontal">
+                        <Image Source="./images/icon/underline.png" Height="16" Width="16" />
+                    </StackPanel>
+                </Button>
+                <xctk:ColorPicker x:Name="_colorPicker" Height="25" Margin="0 5 5 0" Grid.Column="3" SelectedColorChanged="_SelectedColorChanged"
+                           VerticalAlignment="Top"/>
+                <StackPanel Grid.Column="4" Height="25" Margin="0 5 5 1">
+                    <ComboBox Name="cmbFontFamily" Style="{StaticResource comboStyles}"
+                        ItemsSource="{Binding Source={x:Static Member=med:Fonts.SystemFontFamilies}}"
+                        />
+                </StackPanel>
+                <StackPanel Grid.Column="5" Style="{StaticResource editorStackPanelStyle}">
+                    <ComboBox Name="cmbFontSize" Style="{StaticResource comboSizes}">
+                        <sys:Double>8</sys:Double>
+                        <sys:Double>9</sys:Double>
+                        <sys:Double>10</sys:Double>
+                        <sys:Double>11</sys:Double>
+                        <sys:Double>12</sys:Double>
+                        <sys:Double>14</sys:Double>
+                        <sys:Double>16</sys:Double>
+                        <sys:Double>18</sys:Double>
+                        <sys:Double>20</sys:Double>
+                        <sys:Double>22</sys:Double>
+                        <sys:Double>24</sys:Double>
+                        <sys:Double>26</sys:Double>
+                        <sys:Double>28</sys:Double>
+                        <sys:Double>36</sys:Double>
+                        <sys:Double>48</sys:Double>
+                        <sys:Double>72</sys:Double>
+                        </ComboBox>
+                </StackPanel>
+                <Button x:Name="btnClearAll" Grid.Column="6" Style="{StaticResource editorButtonStyle}" Click="btnClearAll_Click">
+                    <StackPanel Orientation="Horizontal">
+                        <Image Source="./images/icon/clear.png" Height="16" Width="16" />
+                    </StackPanel>
+                </Button>
+            </Grid>
+        </Expander>
+        <RichTextBox x:Name="emailContent"
+                     x:FieldModifier="public"
+                     Style="{StaticResource richTextStyle}">
+    </RichTextBox>
+    </DockPanel>
+</UserControl>
